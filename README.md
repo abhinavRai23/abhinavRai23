@@ -14,7 +14,8 @@ And some useful tools like
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abhinavRai23&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 
-📫 Reaching me out: 
+📫 Reaching me out:
+
 [![abhinavrai1994@gmail.com](https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhinavrai1994@gmail.com) 
 [![@eabhinav_rai1994](https://img.shields.io/badge/tweet-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhinav_rai1994)
 [![LinkedIn](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinavrai23/)
