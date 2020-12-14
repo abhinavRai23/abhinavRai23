@@ -3,8 +3,7 @@
 ### Hi there 👋
 I am working as software engineer at Sendinblue who has expertise in
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavrai23&theme=blue-green
-
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavRai23&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abhinavRai23&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
 
