@@ -1,5 +1,13 @@
+[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/abhinavRai23/badges)
+
 ### Hi there 👋
-I am working as software engineer at Sendinblue.
+I am working as software engineer at Sendinblue who has expertise in
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavrai23&theme=blue-green
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=abhinavRai23&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
+
 
 <!--
 **abhinavRai23/abhinavRai23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
