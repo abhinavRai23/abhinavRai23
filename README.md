@@ -9,7 +9,7 @@ I am working as software engineer at Sendinblue who has expertise in
 
 And some useful tools like
 
-[![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)
+![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)
 ![SublimeText](https://aleen42.github.io/badges/src/sublime_text.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abhinavRai23&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
