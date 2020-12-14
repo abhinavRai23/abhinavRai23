@@ -1,17 +1,15 @@
-[![HitCount](http://hits.dwyl.io/Naereen/badges.svg)](http://hits.dwyl.io/abhinavRai23/badges)
-
 ### Hi there 👋
 I am working as software engineer at Sendinblue who has expertise in
 
-![ReactJs](https://aleen42.github.io/badges/src/react.svg)
-![React-Router](https://aleen42.github.io/badges/src/router.svg)
-![Nodejs](https://img.shields.io/badge/node_js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Javascript](https://aleen42.github.io/badges/src/javascript.svg)
+![ReactJs](https://aleen42.github.io/badges/src/react.svg)
+![NodeJS](https://aleen42.github.io/badges/src/node.svg)
 ![docker](https://aleen42.github.io/badges/src/docker.svg)
-![webpack](https://aleen42.github.io/badges/src/webpack.svg) 
+![webpack](https://aleen42.github.io/badges/src/webpack.svg)
 
 And some useful tools like
-![VSCode](https://img.shields.io/badge/code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+[![visual_studio_code](https://aleen42.github.io/badges/src/visual_studio_code.svg)
 ![SublimeText](https://aleen42.github.io/badges/src/sublime_text.svg)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abhinavRai23&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&icon_color=fff)
